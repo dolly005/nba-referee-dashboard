@@ -1,0 +1,4 @@
+﻿dataset,regular_rows,playoffs_rows,combined_rows,regular_unique_games,playoffs_unique_games,combined_unique_games,columns_count,columns_identical_after_fix,duplicate_full_rows,output_file
+games,6150,419,6569,6150,419,6569,21,True,0,nba_games_regular_playoffs_2021_2026.csv
+officials,18451,1509,19960,6150,419,6569,10,True,0,nba_game_officials_regular_playoffs_2021_2026.csv
+games_with_officials,18451,1509,19960,6150,419,6569,26,True,0,nba_games_with_officials_regular_playoffs_2021_2026.csv
